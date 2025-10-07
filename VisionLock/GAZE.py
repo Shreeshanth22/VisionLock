@@ -176,7 +176,7 @@ select_keyboard_menu = True
 keyboard_selection_frames = 0
 count=0
 import  telepot
-bot=telepot.Bot("7783622625:AAEKCgRQEKQwz8KRJxUXnMpPu6ZE8xLEwPU")
+bot=telepot.Bot(" ")
 ch_id="1545793254"
 pf=random.randint(1000, 9999)
 bot.sendMessage(ch_id,f"OTP is :{pf}")
