@@ -177,7 +177,7 @@ keyboard_selection_frames = 0
 count=0
 import  telepot
 bot=telepot.Bot(" ")
-ch_id="1545793254"
+ch_id=" "
 pf=random.randint(1000, 9999)
 bot.sendMessage(ch_id,f"OTP is :{pf}")
 # pf =1234
